@@ -172,6 +172,13 @@ function App() {
               >
                 LinkedIn ↗
               </a>
+              <a
+    href="https://www.instagram.com/ranisnbl/"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    Instagram ↗
+  </a>
             </div>
           </div>
         </div>
